@@ -23,7 +23,8 @@ Vous devez respecter les contraintes suivantes :
 
 ### En ville
 
-#### Les sports 
+#### Boîtes de nuit
 
-* Matmut atlantique : (https://www.matmut-atlantique.com)
-* Palais des sports : (https://www.bordeaux-tourisme.com/offre/fiche/palais-des-sports/LOIAQU033V5046IR)
+*La Plage le club (40 Quai de Paludate, 33000 Bordeaux)
+*Le theatro (24 Rue de la Faïencerie, 33300 Bordeaux)
+*The base  (287 Boulevard Alfred Daney, 33300 Bordeaux)
